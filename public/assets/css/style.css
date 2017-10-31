@@ -1,0 +1,27 @@
+body{
+    background-color: #000000;
+}
+
+.jumbotron{
+    background-color: #000000;
+    color: gray;
+}
+
+h1, h2, label, li{
+    color: #FFFFFF;
+}
+
+#ca {
+    height: 80px;
+    width: 450px;
+    border-radius: 30%;
+}
+
+.btn-secondary {
+    margin-left: 45%;
+}
+
+li{
+    font-size: 15px;
+}
+
